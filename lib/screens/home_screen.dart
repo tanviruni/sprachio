@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'logo_widget.dart';
+import 'package:sprachio/widgets/app_logo.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
